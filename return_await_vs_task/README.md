@@ -48,8 +48,9 @@ For code:
             Console.WriteLine(r);
         }
     }
-```csharp
+```
 will be generated code in the msill:
+```csharp
 using System;
 using System.Diagnostics;
 using System.Reflection;
