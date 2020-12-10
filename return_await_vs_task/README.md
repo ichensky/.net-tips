@@ -49,7 +49,9 @@ For code:
         }
     }
 ```
-will be generated code in the msill:
+
+will be generated msill converted to C#:
+
 ```csharp
 using System;
 using System.Diagnostics;
